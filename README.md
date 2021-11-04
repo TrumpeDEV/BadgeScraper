@@ -1,4 +1,4 @@
-# BadgeScrapper
+# BadgeScraper
 
 
 Find rare users in discord servers
